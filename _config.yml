@@ -1,0 +1,26 @@
+# Site settings
+title:          t617
+description:    "Minimal Jekyll theme for storytellers"
+url:            "https://chesterhow.github.io"
+
+# Author
+author:
+  name:         Chester How
+  url:          https://t617.cn
+  email:        chesterhow@gmail.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
