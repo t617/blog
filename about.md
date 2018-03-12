@@ -8,10 +8,8 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+You are the best :+1:
 
-{% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %}
+[Github](https://github.com/t617 "我的github")
 
-## title
+[CSDN](http://blog.csdn.net/t6_17 "我的CSDN")
