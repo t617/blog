@@ -8,7 +8,7 @@ titles:
 key: page-about
 ---
 
-![t617](https://github.com/t617/blog/blob/master/assets/images/img/logo.jpg)
+![t617](http://avatar.csdn.net/0/3/A/3_t6_17.jpg)
 You are the best :+1:
 
 [Github](https://github.com/t617 "我的github")
