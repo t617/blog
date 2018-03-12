@@ -17,5 +17,6 @@ Github:[https://github.com/t617](https://github.com/t617 "我的github")
 
 CSDN:  [http://blog.csdn.net/t6_17](http://blog.csdn.net/t6_17 "我的CSDN")
 
-邮箱:  <a href="mailto:t617@qq.com">t617@qq.com</a>
+Mail:  <a href="mailto:t617@qq.com">t617@qq.com</a>
+
 ---
