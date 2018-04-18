@@ -8,7 +8,7 @@ titles:
 key: page-about
 ---
 
-![t617](http://avatar.csdn.net/0/3/A/3_t6_17.jpg)
+![t617](./assets/images/logo.jpg)
 
 You are the best :+1:
 
