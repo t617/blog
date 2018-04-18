@@ -8,7 +8,7 @@ titles:
 key: page-about
 ---
 
-![t617](assets/images/img/logo.jpg)
+![t617](./assets/images/img/logo.jpg)
 
 You are the best :+1:
 
