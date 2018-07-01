@@ -7,6 +7,7 @@ tags: 系统分析与设计
 # 系统分析与设计FinalReport
 
 ## 自我总结
+
 在小组里面做后端可以学到很多东西，关于后端，之前就接触过Node.js的一些简单知识，做过一些注册登录的应用。我们后端有三个人在做，后面根据个人所学，统一了一下意见，选择使用flask的框架做后端。通过这次开发经历，积累了不少经验，巩固了git的使用基础，又复习了MySQL数据库的相关知识。学会了设计RESTful风格的的API。
 
 
@@ -34,12 +35,17 @@ tags: 系统分析与设计
 ## 个人git统计截图
 
 一个月内有质量的commit，24次
-![Alt text](./1530445993457.png)
+
+![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/commit.png)
 
 
 ## 自认为最得意/或有价值/或有苦劳的工作清单
-1. 使用Flask设计带认证token的RESTful API接口
+
+>1. 使用Flask设计带认证token的RESTful API接口
 2. 学习了ORM框架SQLAlchemy
-3. 测试阶段对前端与后端的需求变更然后更改相应接口，修改数据库关系
-4. 
+3. 测试阶段对前端需求变更，更改后端相应接口，修改数据库关系等
+4. 使用自己电脑做服务器，完成服务端的配置
+
 ## 个人的技术类、项目管理类博客清单
+
+[Flask简单入门](https://blog.csdn.net/t6_17/article/details/79913636)
