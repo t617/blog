@@ -49,3 +49,4 @@ tags: 系统分析与设计
 ## 个人的技术类、项目管理类博客清单
 
 [Flask简单入门](https://blog.csdn.net/t6_17/article/details/79913636)
+[Flask设计带token认证的API](https://blog.csdn.net/t6_17/article/details/80888399)
