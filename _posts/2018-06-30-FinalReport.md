@@ -8,7 +8,7 @@ tags: 系统分析与设计
 
 ## 自我总结
 
-在小组里面做后端可以学到很多东西，关于后端，之前就接触过Node.js的一些简单知识，做过一些注册登录的应用。我们后端有三个人在做，后面根据个人所学，统一了一下意见，选择使用flask的框架做后端。通过这次开发经历，积累了不少经验，巩固了git的使用基础，又复习了MySQL数据库的相关知识。学会了设计RESTful风格的的API。
+在小组里面做后端可以学到很多东西，对前后端分离的开发方式有了一定认识。关于后端，之前就接触过Node.js的一些简单知识，做过一些注册登录的应用。我们后端有三个人在做，后面根据个人所学，统一了一下意见，选择使用flask的框架做后端。通过这次开发经历，积累了不少经验，巩固了git的使用基础，复习了MySQL数据库的相关知识，学会了设计RESTful风格的的API，最后感谢团队的努力！
 
 
 ## PSP2.1统计表
@@ -36,16 +36,22 @@ tags: 系统分析与设计
 
 一个月内有质量的commit，24次，总共33次
 
-![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/commit.png)
+![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/1.png)
+![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/2.png)
+![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/3.png)
+![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/4.png)
+![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/5.png)
+![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/6.png)
+![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/7.png)
 
 
 ## 自认为最得意/或有价值/或有苦劳的工作清单
 
 >1. 使用Flask设计带认证token的RESTful API接口
 2. 学习了ORM框架SQLAlchemy
-3. 测试阶段对前端需求变更，更改后端相应接口，修改数据库关系等
+3. 测试阶段对前端需求变更，灵活更改后端相应接口，修改数据库关系等
 4. 使用自己电脑做服务器，完成服务端的配置
-
+5. 使用Blueprint对项目划分modules开发，降低程序耦合性
 ## 个人的技术类、项目管理类博客清单
 
 [Flask简单入门](https://blog.csdn.net/t6_17/article/details/79913636)
