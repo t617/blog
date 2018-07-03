@@ -34,7 +34,7 @@ tags: 系统分析与设计
 
 ## 个人git统计截图
 
-一个月内有质量的commit，24次
+一个月内有质量的commit，24次，总共33次
 
 ![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/commit.png)
 
@@ -49,4 +49,5 @@ tags: 系统分析与设计
 ## 个人的技术类、项目管理类博客清单
 
 [Flask简单入门](https://blog.csdn.net/t6_17/article/details/79913636)
+
 [Flask设计带token认证的API](https://blog.csdn.net/t6_17/article/details/80888399)
