@@ -38,11 +38,6 @@ tags: 系统分析与设计
 
 ![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/1.png)
 ![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/2.png)
-![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/3.png)
-![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/4.png)
-![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/5.png)
-![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/6.png)
-![Alt text](https://github.com/t617/blog/raw/master/screenshots/img/7.png)
 
 
 ## 自认为最得意/或有价值/或有苦劳的工作清单
@@ -52,8 +47,12 @@ tags: 系统分析与设计
 3. 测试阶段对前端需求变更，灵活更改后端相应接口，修改数据库关系等
 4. 使用自己电脑做服务器，完成服务端的配置
 5. 使用Blueprint对项目划分modules开发，降低程序耦合性
+
+
 ## 个人的技术类、项目管理类博客清单
 
 [Flask简单入门](https://blog.csdn.net/t6_17/article/details/79913636)
 
 [Flask设计带token认证的API](https://blog.csdn.net/t6_17/article/details/80888399)
+
+[后端入门实战Flask+Mysql](https://blog.csdn.net/t6_17/article/details/80902169)
